@@ -41,6 +41,9 @@ print(destruccion.ciudad("New_York"))
 ````
 UML:
 
+![image](https://user-images.githubusercontent.com/91721590/159535502-f4f00e50-ac1b-419e-8547-a61bbe89604e.png)
+
+
 
 
 
