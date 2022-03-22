@@ -132,3 +132,6 @@ print(casa.superficie_cristal())
 
 
 UML:
+
+![image](https://user-images.githubusercontent.com/91721590/159535049-36dee098-b021-41c9-99e9-428871cdd056.png)
+
