@@ -14,5 +14,6 @@ class destruccion():
      print("Se ha destruido Los_Angeles")
      print("Se ha destruido el edificio C")
      print("Muere Sra.Xing ")
+print("EJERCICIO 1:")
 print(destruccion.ciudad("New_York"))
 
